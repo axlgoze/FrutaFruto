@@ -1,0 +1,16 @@
+/* patron recomendado 
+    - position
+    - box model (margin&padding, width&height)
+    - Typo
+    - visual effects (box-shadow, border-radius)
+    - otros...
+*/
+
+html{
+    font-size: 62.5%;
+}
+
+.container{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
