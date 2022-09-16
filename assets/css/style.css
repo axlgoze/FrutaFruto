@@ -1,35 +1,10 @@
-.cabecera{
-    align-items: center;
-    background-color: #f9f9ff;
-    justify-content: space-between;
-    display: flex;
 
-}
 
-.menu-lista{
-    display: inline-flex;
-}
 
-.menu-item{
-    list-style: none;
-}
 
-.menu-link{
-    color: #808080;
-    margin: 0 2rem 0 0;
-    text-decoration: none;
-    text-transform: lowercase;
-}
 
-.menu-item:last-child{
-    margin-right: 0;
-}
 
-.menu-link#activo{
-    color: #333333;
-    font-weight: bold;
-}
 
-.menu-link:hover{
-    text-decoration: underline;
-}
+
+
+
