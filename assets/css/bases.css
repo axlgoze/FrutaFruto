@@ -18,3 +18,7 @@ html{
 .menu-text{
     font-size: 2.4rem;
 }
+
+.border{
+    border: solid fuchsia 1px;
+}
