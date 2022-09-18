@@ -1,6 +1,24 @@
 .recetas{
     display: flex;
     flex-wrap: wrap;
-    padding: 8rem 0 0 8rem;
     background-color: #e5e5e5;
+}
+
+
+@media screen and (min-width:0px) {
+    .recetas{
+        padding: 8rem 0 0 1.6rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .recetas{
+        padding: 8rem 0 0 4rem;
+    }
+}
+
+@media screen and (min-width:922px) {
+    .recetas{
+        padding: 8rem 0 0 8rem;
+    }
 }
